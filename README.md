@@ -127,8 +127,8 @@
       <!-- <img width="360"
      src="https://streak-stats.demolab.com/?user=rohitmalode&theme=github-dark-blue&hide_border=true&background=00000000"
      alt="GitHub Streak Stats"/> -->
-       <img width="360"
-     src="https://github-readme-stats.vercel.app/api?username=rohitmalode&show_icons=true&theme=dark"
+      <img width="360"
+     src="https://github-readme-stats.vercel.app/api?username=rohitmalode&show_icons=true&theme=github_dark&hide_border=true"
      alt="GitHub Stats"/>
       </td>
        <td>
