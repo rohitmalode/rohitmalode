@@ -129,7 +129,7 @@
   <a href="mailto:rohitmalode10@email.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/rohitmalode">
+  <a href="https://github.com/rohitmalode/">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
