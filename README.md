@@ -1,46 +1,39 @@
-<!-- ==================== HERO SECTION ==================== -->
-<h1 align="center">Hi 👋, I'm <b></b></h1>
 
-<p align="center">
-
-
-
+ 
+---
+<!-- Intro  -->
 <h3 align="center">
-  🚀 Data Analyst | AI/ML Engineer | AI Agents Developer
+        <samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey There!, I am
+                <b> Rohit </b>
+        </samp>
 </h3>
 
 
+<div align="center" style="margin-left:"800px">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F7BC4C&center=true&width=435&lines=Cloud+Enthusiast;Web+Developer" alt="Typing SVG" /></a>
+     <br>
+</div>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F7BC4C&center=true&width=435&lines=Cloud+Enthusiast;Big+Data+Enthusiast;Web+Developer" alt="Typing SVG" /></a> -->
+
+
+<h3 align="center">💻 Softwear Developer from India </h3>
+
 <p align="center">
-Transforming <b>data into insights</b> and <b>AI into intelligent automation</b> through analytics, machine learning, and agentic workflows.
-</p>
-
-<br>
-
-
-<!-- ==================== BADGES ==================== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanvibarve&label=Profile%20Views&color=blue&style=flat" />
-  <img src="https://img.shields.io/badge/AI%20Engineer-%F0%9F%A4%96-blueviolet" />
-  <img src="https://img.shields.io/badge/Data%20Analyst-%F0%9F%93%8A-blue" />
-  <img src="https://img.shields.io/badge/ML%20Engineer-%F0%9F%92%BB-orange" />
-  <img src="https://img.shields.io/badge/AI%20Agents%20Developer-%E2%9A%99%EF%B8%8F-green" />
-  <img src="https://img.shields.io/badge/Automations-n8n-red" />
+  <a href="https://www.python.com"><img src="https://img.shields.io/badge/python-orange?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://www.django.com"><img src="https://img.shields.io/badge/django-20232A?style=for-the-badge&logo=django&logoColor=white"/></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🔥 **About Me**
-- 🎯 Passionate about **AI Agents**, **ML models**, and **data-driven problem solving**
-- 🤖 Building automation workflows using **n8n**, AI APIs, and custom agents  
-- 📊 Skilled in **data analysis**, **dashboarding**, **ML pipelines**, and **ETL workflows**
-- 💡 Love creating **smart, automated systems** to reduce manual work  
-- 📬 Reach me at: **tanvibarve2107@email.com** 
+- 👯 I’m looking to collaborate on **industry-relevant and impactful projects**  
+- 🌱 Actively upskilling in **Data Engineer, backend development, databases, and Machine Learning**   
+- 💡 Driven by **curiosity, clean code, and solving meaningful problems**, with strong enthusiasm for **Python and full-stack development**  
 
 ---
 
-## 🛠️ **Skills & Tools**
-
-## 🛠️ Skills & Expertise
 
 ### 📊 **Data Analytics & BI**
 
@@ -121,25 +114,16 @@ Transforming <b>data into insights</b> and <b>AI into intelligent automation</b>
   <img src="https://img.shields.io/badge/Teamwork-ff1493" />
   <img src="https://img.shields.io/badge/Project%20Management-0033cc" />
 </p>
----
 
-## ⚡ **Featured Projects**
-| Project | Description |
-|--------|-------------|
-| 🤖 **AI Workflow Automation** | Built AI agents on n8n automating daily business tasks |
-| 📊 **EDA + ML Pipeline** | End-to-end data cleaning → feature engineering → model deployment |
-| 🧠 **Chatbot / AI Assistants** | LLM-powered conversational tools |
-
----
 
 ## 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanvi721&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitmalode&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanvi721&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanvi721&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitmalode&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitmalode&theme=radical" />
 </p>
 
 
@@ -147,13 +131,13 @@ Transforming <b>data into insights</b> and <b>AI into intelligent automation</b>
 
 ## 🌐 **Let's Connect**
 <p align="center">
-  <a href="https://www.linkedin.com/in/tanvi-barve-9b7166309/">
+  <a href="https://www.linkedin.com/in/rohit-malode-b80b4a282/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:tanvibarve2107@email.com">
+  <a href="mailto:rohitmalode10@email.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/Tanvi721">
+  <a href="https://github.com/rohitmalode">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
