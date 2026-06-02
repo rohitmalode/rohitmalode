@@ -124,9 +124,7 @@
     <tr>
       <td>
         <!-- 🔥 Streak Stats with transparent bg -->
-        <img width="360"
-             src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmalode&theme=github-dark-blue&hide_border=true&background=00000000" 
-             alt="GitHub Streak Stats"/>
+       <img src="https://streak-stats.demolab.com?user=rohitmalode&theme=github-dark-blue&hide_border=true" />
       </td>
        <td>
         <!-- 🧾 Profile Summary with transparent bg -->
