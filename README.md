@@ -117,14 +117,60 @@
 
 
 ## 📈 **GitHub Stats**
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitmalode&theme=radical" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitmalode&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitmalode&theme=radical" />
+</p> -->
+
+
+
+### 📊 My GitHub Stats
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <!-- 🔥 Streak Stats with transparent bg -->
+        <img width="360"
+             src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmalode&theme=github-dark-blue&hide_border=true&background=00000000" 
+             alt="GitHub Streak Stats"/>
+      </td>
+      <td>
+        <!-- 🧠 GitHub Stats with transparent bg -->
+        <img width="390"
+             src="https://github-readme-stats.vercel.app/api?username=rohitmalode&theme=algolia&show_icons=true&hide_border=true&bg_color=00000000"
+             alt="GitHub Stats"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!-- 📊 Top Languages with transparent bg -->
+        <img width="390"
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmalode&layout=compact&theme=algolia&hide_border=true&bg_color=00000000"
+             alt="Top Languages"/>
+      </td>
+      <td>
+        <!-- 🧾 Profile Summary with transparent bg -->
+        <img width="400"
+             src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitmalode&theme=algolia&bg_color=00000000"
+             alt="Profile Summary"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohitmalode&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
+
+
 
 
 ---
