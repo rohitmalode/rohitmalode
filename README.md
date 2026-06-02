@@ -124,7 +124,9 @@
     <tr>
       <td>
         <!-- 🔥 Streak Stats with transparent bg -->
-       <img src="https://streak-stats.demolab.com?user=rohitmalode&theme=github-dark-blue&hide_border=true" />
+      <img width="360"
+     src="https://streak-stats.demolab.com/?user=rohitmalode&theme=github-dark-blue&hide_border=true&background=00000000"
+     alt="GitHub Streak Stats"/>
       </td>
        <td>
         <!-- 🧾 Profile Summary with transparent bg -->
