@@ -127,28 +127,28 @@
 </p> -->
 
 
-
 ### 📊 My GitHub Stats
 
-
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <!-- 🔥 Streak Stats with transparent bg -->
-        <img width="360"
-             src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmalode&theme=github-dark-blue&hide_border=true&background=00000000" 
-             alt="GitHub Streak Stats"/>
-      </td>
-      <td>
-        <!-- 🧠 GitHub Stats with transparent bg -->
-        <img width="390"
-             src="https://github-readme-stats.vercel.app/api?username=rohitmalode&theme=algolia&show_icons=true&hide_border=true&bg_color=00000000"
-             alt="GitHub Stats"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
+
+<table>
+  <tr>
+    <td align="center">
+      
+<!-- 🔥 Streak Stats -->
+<img width="360" src="https://github-readme-streak-stats.herokuapp.com?user=rohitmalode&theme=github-dark-blue&hide_border=true" />
+
+    </td>
+    <td align="center">
+
+<!-- 🧠 GitHub Stats -->
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=rohitmalode&theme=algolia&show_icons=true&hide_border=true" />
+
+    </td>
+  </tr>
+</table>
+
+</div>
         <!-- 📊 Top Languages with transparent bg -->
         <img width="390"
              src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmalode&layout=compact&theme=algolia&hide_border=true&bg_color=00000000"
