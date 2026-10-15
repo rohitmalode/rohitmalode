@@ -1,4 +1,4 @@
-<!-- ===================================================== -->
+ <!-- ===================================================== -->
 <!--                  PROFILE HEADER                      -->
 <!-- ===================================================== -->
 
@@ -156,7 +156,35 @@ I'm a technology enthusiast focused on **Data Engineering, Cloud Data Platforms,
 - Git and GitHub version control.
 - GitHub Actions for automated testing and deployment.
 - Docker and containerization fundamentals.
+- Databricks Asset Bundles for deployment automation.
+- Code quality, testing, and reproducible workflows.
 
+---
+
+## Featured Projects
+
+### Oil & Gas Demand Forecasting
+
+A machine learning project for forecasting product demand across destination cities.
+
+- **Technologies:** Databricks, PySpark, Python, SQL, Random Forest, MLflow.
+- **Focus:** Feature engineering, time-based train/test splitting, seven-day-ahead forecasting, and automated batch predictions.
+- **MLOps:** Model tracking, registration, and deployment automation.
+
+### Project Orion — Enterprise Analytics Platform
+
+A centralized analytics solution designed around the Medallion Architecture.
+
+- **Technologies:** Microsoft Fabric, OneLake, PySpark, Delta Lake, Power BI.
+- **Focus:** Metadata-driven ingestion, data quality validation, Silver-layer transformations, and Gold-layer KPIs.
+- **Analytics:** Sales performance, productivity, compliance, and business reporting.
+
+### DemandLens — Inventory Demand Prediction
+
+An inventory demand forecasting solution combining data processing and machine learning.
+
+- **Technologies:** Python, Django, PostgreSQL, PyTorch, Scikit-learn.
+- **Focus:** Demand prediction, inventory insights, and analytical reporting.
 
 ---
 
@@ -164,11 +192,16 @@ I'm a technology enthusiast focused on **Data Engineering, Cloud Data Platforms,
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitmalode&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmalode&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+<a href="https://github.com/rohitmalode">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitmalode&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
+</a>
+<a href="https://github.com/rohitmalode">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmalode&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages"/>
+</a>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=rohitmalode&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitmalode&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
 
 </div>
 
