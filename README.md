@@ -156,35 +156,7 @@ I'm a technology enthusiast focused on **Data Engineering, Cloud Data Platforms,
 - Git and GitHub version control.
 - GitHub Actions for automated testing and deployment.
 - Docker and containerization fundamentals.
-- Databricks Asset Bundles for deployment automation.
-- Code quality, testing, and reproducible workflows.
 
----
-
-## Featured Projects
-
-### Oil & Gas Demand Forecasting
-
-A machine learning project for forecasting product demand across destination cities.
-
-- **Technologies:** Databricks, PySpark, Python, SQL, Random Forest, MLflow.
-- **Focus:** Feature engineering, time-based train/test splitting, seven-day-ahead forecasting, and automated batch predictions.
-- **MLOps:** Model tracking, registration, and deployment automation.
-
-### Project Orion — Enterprise Analytics Platform
-
-A centralized analytics solution designed around the Medallion Architecture.
-
-- **Technologies:** Microsoft Fabric, OneLake, PySpark, Delta Lake, Power BI.
-- **Focus:** Metadata-driven ingestion, data quality validation, Silver-layer transformations, and Gold-layer KPIs.
-- **Analytics:** Sales performance, productivity, compliance, and business reporting.
-
-### DemandLens — Inventory Demand Prediction
-
-An inventory demand forecasting solution combining data processing and machine learning.
-
-- **Technologies:** Python, Django, PostgreSQL, PyTorch, Scikit-learn.
-- **Focus:** Demand prediction, inventory insights, and analytical reporting.
 
 ---
 
