@@ -1,220 +1,211 @@
-<!-- ===================================================== -->
-<!--                  PROFILE HEADER                      -->
-<!-- ===================================================== -->
+ <div align="center">
 
-<div align="center">
+# Rohit Malode
 
-# 👋 Hey there, I'm Rohit Malode!
+### Data Engineer · Cloud Data Platforms · AI Engineering
 
-### Data Engineer | Databricks | Microsoft Fabric | Azure
+*Building reliable data pipelines and transforming raw data into business-ready insights.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=F25C54&center=true&vCenter=true&width=650&lines=Building+Scalable+Data+Pipelines;Microsoft+Fabric+%7C+Azure+Data+Factory;Databricks+%7C+PySpark+%7C+Delta+Lake;Exploring+AI+Engineering+%26+MLOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=F25C54&center=true&vCenter=true&width=650&lines=Databricks+%7C+Microsoft+Fabric;Azure+Data+Factory+%7C+PySpark+%7C+SQL;Lakehouse+Architecture+%7C+ETL%2FELT;Data+Engineering+meets+AI+%26+MLOps" alt="Data engineering animated introduction" />
 
 <p>
-  <img src="https://img.shields.io/badge/Databricks-Data%20Engineer%20Associate-EF4E39?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Data Engineer Associate"/>
-  <img src="https://img.shields.io/badge/Databricks-Generative%20AI%20Engineer-1B96FF?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Generative AI Engineer Associate"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Fabric%20Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric Data Engineer Associate DP-700"/>
+<a href="https://github.com/rohitmalode"><img src="https://img.shields.io/badge/GitHub-rohitmalode-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/rohit-malode-b80b4a282/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+<img src="https://komarev.com/ghpvc/?username=rohitmalode&style=flat-square&color=E85D4A&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=rohitmalode&label=Profile%20Views&color=0078D4&style=flat-square" alt="Profile Views"/>
+### CERTIFICATIONS
+
+<a href="https://credentials.databricks.com/"><img src="https://img.shields.io/badge/DATABRICKS-Data%20Engineer%20Associate-E94F37?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Data Engineer Associate"/></a>
+
+<a href="https://credentials.databricks.com/"><img src="https://img.shields.io/badge/DATABRICKS-Generative%20AI%20Engineer%20Associate-2879D0?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Generative AI Engineer Associate"/></a>
+
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/"><img src="https://img.shields.io/badge/MICROSOFT-Fabric%20Data%20Engineer%20Associate%20%7C%20DP--700-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric Data Engineer Associate"/></a>
 
 </div>
 
 ---
 
-<!-- ===================================================== -->
-<!--                    ABOUT ME                           -->
-<!-- ===================================================== -->
+## 👨‍💻 About Me
 
-## 🚀 About Me
+I'm a **Data Engineer** passionate about designing scalable data pipelines, modern Lakehouse architectures, and cloud-based analytics solutions.
 
-I'm a technology enthusiast focused on **Data Engineering, Cloud Data Platforms, and AI Engineering**. I enjoy building reliable data pipelines, transforming raw data into meaningful insights, and developing scalable data solutions using modern cloud technologies.
+My focus is on building data platforms that combine reliable ingestion, distributed processing, data quality, orchestration, and analytics. I'm also exploring how machine learning and MLOps can extend the value of data engineering.
 
-- 🔭 Working on cloud-based data engineering and analytics projects.
-- 🌱 Exploring advanced concepts in **Databricks, Microsoft Fabric, and MLOps**.
-- ⚙️ Interested in building metadata-driven ETL/ELT pipelines and automated data workflows.
-- 🧠 Learning more about Lakehouse architecture, data quality, and machine learning deployment.
-- 🤝 Open to collaborating on data engineering, analytics, and AI projects.
-- 🎯 Goal: Build efficient, scalable, and production-ready data platforms.
+- **Data platforms:** Databricks, Microsoft Fabric, Azure Data Factory
+- **Data processing:** Python, SQL, PySpark, Apache Spark
+- **Architecture:** Medallion Architecture, Lakehouse, Delta Lake
+- **Automation:** Metadata-driven pipelines, CI/CD, workflow orchestration
+- **AI & ML:** Feature engineering, MLflow, predictive analytics
 
 ---
 
-<!-- ===================================================== -->
-<!--                   CERTIFICATIONS                     -->
-<!-- ===================================================== -->
-
-## 🏆 Certifications
+## 🧰 Technology Stack
 
 <div align="center">
 
-<a href="https://credentials.databricks.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Databricks-Certified%20Data%20Engineer%20Associate-EF4E39?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Certified Data Engineer Associate"/>
-</a>
+### Cloud & Data Platforms
 
-<a href="https://credentials.databricks.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Databricks-Certified%20Generative%20AI%20Engineer%20Associate-1685D1?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Certified Generative AI Engineer Associate"/>
-</a>
+<img src="https://img.shields.io/badge/Databricks-E94F37?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Fabric"/>
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory"/>
+<img src="https://img.shields.io/badge/OneLake-0089D6?style=for-the-badge" alt="OneLake"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 
-<a href="https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Fabric%20Data%20Engineer%20Associate%20(DP--700)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified Fabric Data Engineer Associate DP-700"/>
-</a>
+### Data Engineering & Processing
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+<img src="https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge" alt="Delta Lake"/>
+<img src="https://img.shields.io/badge/Lakehouse-5C4DB1?style=for-the-badge" alt="Lakehouse"/>
+
+### Data Storage & Analytics
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Data%20Warehousing-34495E?style=for-the-badge" alt="Data Warehousing"/>
+<img src="https://img.shields.io/badge/Data%20Quality-238636?style=for-the-badge" alt="Data Quality"/>
+
+### AI, MLOps & Automation
+
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Generative%20AI-7656D6?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/MLOps-263238?style=for-the-badge" alt="MLOps"/>
+
+### Engineering & Deployment
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Databricks%20Asset%20Bundles-E94F37?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Asset Bundles"/>
 
 </div>
 
 ---
 
-<!-- ===================================================== -->
-<!--                 DATA ENGINEERING                      -->
-<!-- ===================================================== -->
+## 🏗️ What I Build
 
-## 🏗️ Data Engineering & Big Data
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/ETL%2FELT%20Pipelines-0A66C2?style=for-the-badge" alt="ETL ELT"/>
-  <img src="https://img.shields.io/badge/Medallion%20Architecture-CD7F32?style=for-the-badge" alt="Medallion Architecture"/>
-  <img src="https://img.shields.io/badge/Data%20Quality-2E8B57?style=for-the-badge" alt="Data Quality"/>
-  <img src="https://img.shields.io/badge/Metadata--Driven%20Pipelines-6F42C1?style=for-the-badge" alt="Metadata Driven Pipelines"/>
-  <img src="https://img.shields.io/badge/Batch%20Processing-34495E?style=for-the-badge" alt="Batch Processing"/>
-</p>
+### ⚡ Data Pipelines
 
-- Building and orchestrating ETL/ELT pipelines.
-- Designing Bronze, Silver, and Gold data layers.
-- Implementing data cleansing, validation, and deduplication.
-- Working with incremental loads, MERGE operations, and Delta tables.
-- Developing reusable, metadata-driven ingestion frameworks.
+- Metadata-driven ingestion
+- ETL/ELT orchestration
+- Incremental loading and upserts
+- Reusable transformation frameworks
+- Pipeline monitoring and audit logging
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🔥 Databricks
+### 🥉 Medallion Architecture
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
-  <img src="https://img.shields.io/badge/PySpark-FF3621?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
-  <img src="https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge" alt="Delta Lake"/>
-  <img src="https://img.shields.io/badge/Unity%20Catalog-5E35B1?style=for-the-badge" alt="Unity Catalog"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-</p>
+- **Bronze:** Raw data ingestion
+- **Silver:** Cleansing and validation
+- **Gold:** Curated business datasets
+- Delta Lake tables and MERGE operations
+- Data quality rules and exception handling
 
-- Apache Spark and PySpark transformations.
-- Delta Lake tables, schema evolution, and MERGE operations.
-- Unity Catalog and data governance fundamentals.
-- Feature engineering and machine learning workflows.
-- Databricks Jobs, Asset Bundles, and CI/CD automation.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### ☁️ Cloud Analytics
 
-## ☁️ Microsoft Fabric & Azure Data Engineering
+- Microsoft Fabric Lakehouse
+- OneLake and Fabric Warehouse
+- Azure Data Factory orchestration
+- Power BI analytics
+- SQL-based reporting and data models
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Fabric"/>
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory"/>
-  <img src="https://img.shields.io/badge/OneLake-00A4EF?style=for-the-badge" alt="OneLake"/>
-  <img src="https://img.shields.io/badge/Lakehouse-483D8B?style=for-the-badge" alt="Lakehouse"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Azure%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Storage"/>
-</p>
+</td>
+<td width="50%" valign="top">
 
-- Building data ingestion and transformation pipelines.
-- Working with Fabric Lakehouse, Warehouse, and OneLake.
-- Developing Azure Data Factory pipelines and orchestration workflows.
-- Implementing Medallion Architecture and Delta Lake solutions.
-- Exploring Fabric notebooks, semantic models, and Power BI reporting.
+### 🤖 Data + AI
+
+- Feature engineering
+- Predictive demand forecasting
+- MLflow experiment tracking
+- Model lifecycle automation
+- CI/CD for data and ML workflows
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💾 Programming Languages & Databases
+## 🚀 Featured Projects
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,sql" alt="Programming Languages"/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Delta%20Tables-003366?style=for-the-badge" alt="Delta Tables"/>
-</p>
+### 01 · Oil & Gas Demand Forecasting
 
-- Python, SQL, and PySpark.
-- Joins, CTEs, window functions, and analytical queries.
-- Query optimization and data modelling.
-- Relational databases and analytical data warehouses.
+**Databricks · PySpark · Random Forest · MLflow · GitHub Actions**
 
----
+A demand forecasting pipeline that predicts product demand seven calendar days ahead for product and destination-city combinations.
 
-## 🤖 Machine Learning, AI & MLOps
+- Engineered lag, rolling-average, and calendar features.
+- Applied chronological train/test splitting.
+- Integrated model tracking and registration with MLflow.
+- Automated deployment workflows using Databricks Asset Bundles and GitHub Actions.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit Learn"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-7B61FF?style=for-the-badge" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/MLOps-34495E?style=for-the-badge" alt="MLOps"/>
-</p>
+[Explore the repository →](https://github.com/bhushantile20/oil-gas-demand-forecasting)
 
-- Feature engineering and predictive modelling.
-- Model training, evaluation, and experiment tracking.
-- MLflow model management and deployment concepts.
-- Exploring Generative AI applications and AI-powered workflows.
+### 02 · Project Orion — Enterprise Analytics Platform
 
----
+**Microsoft Fabric · OneLake · Delta Lake · PySpark · Power BI**
 
-## ⚙️ DevOps & Developer Tools
+A centralized analytics platform built around the Medallion Architecture for enterprise reporting and business intelligence.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,githubactions" alt="Developer Tools"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI CD"/>
-</p>
+- Metadata-driven source ingestion and pipeline orchestration.
+- Reusable Silver-layer transformations across multiple tables.
+- Data quality validation and exception handling.
+- Gold-layer KPIs for sales, productivity, coverage, and compliance.
 
-- Git and GitHub version control.
-- GitHub Actions for automated testing and deployment.
-- Docker and containerization fundamentals.
-- Databricks Asset Bundles for deployment automation.
-- Code quality, testing, and reproducible workflows.
+### 03 · DemandLens — Inventory Demand Prediction
+
+**Python · Django · PostgreSQL · PyTorch · Scikit-learn**
+
+An inventory demand prediction solution designed to turn historical data into actionable forecasting insights.
+
+- Demand forecasting using machine learning.
+- Data preparation and feature engineering.
+- Backend APIs and database integration.
+- Analytics for inventory planning and demand trends.
 
 ---
 
-<!-- ===================================================== -->
-<!--                  FEATURED PROJECTS                    -->
-<!-- ===================================================== -->
-
-## 📌 Featured Projects
-
-### 🛢️ Oil & Gas Demand Forecasting
-
-A machine learning project for forecasting product demand across destination cities.
-
-- **Technologies:** Databricks, PySpark, Python, SQL, Random Forest, MLflow.
-- **Focus:** Feature engineering, time-based train/test splitting, seven-day-ahead forecasting, and automated batch predictions.
-- **MLOps:** Model tracking, registration, and deployment automation.
-
-### 🏢 Project Orion — Enterprise Analytics Platform
-
-A centralized analytics solution designed around the Medallion Architecture.
-
-- **Technologies:** Microsoft Fabric, OneLake, PySpark, Delta Lake, Power BI.
-- **Focus:** Metadata-driven ingestion, data quality validation, Silver-layer transformations, and Gold-layer KPIs.
-- **Analytics:** Sales performance, productivity, compliance, and business reporting.
-
-### 📦 DemandLens — Inventory Demand Prediction
-
-An inventory demand forecasting solution combining data processing and machine learning.
-
-- **Technologies:** Python, Django, PostgreSQL, PyTorch, Scikit-learn.
-- **Focus:** Demand prediction, inventory insights, and analytical reporting.
-
----
-
-<!-- ===================================================== -->
-<!--                    GITHUB STATS                      -->
-<!-- ===================================================== -->
-
-## 📊 GitHub Analytics
+## 🏅 Certifications & Credentials
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitmalode&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+| Certification | Credential |
+|---|---|
+| Databricks Certified Data Engineer Associate | [Databricks Credentials](https://credentials.databricks.com/) |
+| Databricks Certified Generative AI Engineer Associate | [Databricks Credentials](https://credentials.databricks.com/) |
+| Microsoft Certified: Fabric Data Engineer Associate (DP-700) | [Microsoft Certification](https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/) |
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmalode&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</div>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=rohitmalode&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+*The badges above are visual labels. For direct verification, replace the general credential links with the individual public credential URLs.*
+
+---
+
+## 📈 GitHub Insights
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitmalode&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmalode&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages"/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=rohitmalode&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -224,18 +215,12 @@ An inventory demand forecasting solution combining data processing and machine l
 
 <div align="center">
 
-<a href="https://github.com/rohitmalode">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+I'm always interested in connecting with engineers, learning from the data community, and collaborating on meaningful projects.
 
-<a href="https://www.linkedin.com/in/rohit-malode-b80b4a282/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<a href="https://github.com/rohitmalode"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/rohit-malode-b80b4a282/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:rohitmalode10@email.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<a href="mailto:rohitmalode10@email.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-### 💡 Build. Automate. Transform Data. 🚀
+### *Turning data into dependable solutions.* 
 
 </div>
