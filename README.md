@@ -190,6 +190,7 @@ An inventory demand forecasting solution combining data processing and machine l
 
 ## GitHub Analytics
 
+
 <div align="center">
 
 <a href="https://github.com/rohitmalode">
@@ -204,7 +205,6 @@ An inventory demand forecasting solution combining data processing and machine l
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitmalode&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
 
 </div>
-
 ---
 
 ## Let's Connect
